@@ -1,0 +1,40 @@
+*{
+     font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.row{
+    background-color: rgba(249, 241, 241, 0.796);
+    height: 300px;
+    width: 100%;
+}
+.column{
+    text-align: center;
+}
+.fk{
+    font-size: 25px;
+    color: rgb(128, 93, 51);
+
+}
+.footk{
+background-color: rgba(100, 71, 47, 0.497);
+text-align: center;
+color: rgb(72, 48, 27);
+}
+.header1{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(128, 93, 51);
+}
+.landin{
+   height:700px;
+   width:100% ;
+   border:10px;
+   
+}
+.rr{
+    height:500px;
+   width:400px;
+   border:10px; 
+   
+}
